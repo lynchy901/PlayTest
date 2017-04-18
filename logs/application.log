@@ -1,0 +1,2 @@
+2017-04-18 12:56:36,921 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2017-04-18T16:56:36.920Z
+2017-04-18 12:56:37,060 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)

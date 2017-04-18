@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/nathan/Documents/play-java/conf/logback.xml,/home/nathan/Documents/play-java/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/nathan/Documents/play-java/conf/application.conf,/home/nathan/Documents/play-java/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/nathan/Documents/play-java/conf/routes,/home/nathan/Documents/play-java/target/scala-2.11/classes/routes)[0m
